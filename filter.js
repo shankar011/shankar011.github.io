@@ -3,49 +3,49 @@ const data = [
     {
         id: 1,
         name: "Bentaley-Belt",
-        img: "../images/watch1.png",
+        img: "./images/watch1.png",
         price:74,
         cat: "Dress",
     },
     {
         id: 11,
         name: "Rolex Gold Addition",
-        img: "../images/watch2.png",
+        img: "./images/watch2.png",
         price: 101,
         cat: "Party"
     },
     {
         id: 2,
         name: "Apple Smart Watch",
-        img: "../images/watch3.png",
+        img: "./images/watch3.png",
         price: 121,
         cat: "Sessional"
     },
     {
         id: 2,
         name: "Apple Smart Watch",
-        img: "../images/watch3.png",
+        img: "./images/watch3.png",
         price: 121,
         cat: "Sport"
     },
     {
         id: 3,
         name: "Catrier",
-        img: "../images/watch4.png",
+        img: "./images/watch4.png",
         price: 77,
         cat: "Luxury",
     },
     {
         id: 4,
         name: "Titan",
-        img: "../images/watch5.png",
+        img: "./images/watch5.png",
         price: 65,
         cat: "Sport"
     },
     {
         id: 5,
         name: "IWC",
-        img: "../images/watch6.png",
+        img: "./images/watch6.png",
         price: 121,
         cat: "Casual"
     },
